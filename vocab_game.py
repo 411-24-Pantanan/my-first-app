@@ -101,5 +101,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-st.write("นางสาวพันธนันท์ เขตสิทธิ เลขที่ 24 ม.4/11
-")
+st.write("นางสาวพันธนันท์ เขตสิทธิ เลขที่ 24 ม.4/11")
